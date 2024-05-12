@@ -29,3 +29,4 @@ Use playback controls directly from the floating window for play, pause, or stop
 High-Performance Browser: Use a modern browser like Chrome, Firefox, or Edge for optimal functionality.
 Stable Internet Connection: Ensure a stable connection to avoid lag or buffering during video sharing.
 Check Permissions: If issues arise, verify that screen sharing permissions are enabled for the website.
+If you still face issues, just RELOAD the page and try again!
