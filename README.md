@@ -1,3 +1,5 @@
+# Deployed @ : https://picnicpic.netlify.app/
+
 # Maximizing Productivity with Picture-in-Picture
 Imagine balancing a day packed with responsibilities that each demand your attention: watching a crucial live World Cup match or attending a lengthy video conference or monitoring fast-moving stock market data as well as keeping an eye on a toddler through a baby cam, or squeezing in a quick fitness routine via an online guide. Sarah, a marketing consultant and a multitasking professional, faced these choices daily. Switching between these tasks was diminishing her productivity and increasing her stress.
 
