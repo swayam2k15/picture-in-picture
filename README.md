@@ -32,14 +32,14 @@ Check Permissions: If issues arise, verify that screen sharing permissions are e
 If you still face issues, just RELOAD the page and try again!
 
 # Why Opt for Built-in Browser Picture-in-Picture Instead of Browser Extensions?
-Enhanced Privacy
+Enhanced Privacy: 
 Built-in PiP does not share data with third parties, avoiding the privacy risks associated with extensions that might require access to all your web data for functionality or data monetization.
 
-Ad-Free Experience
+Ad-Free Experience: 
 Avoid extensions that may inject ads or track your browsing for personalized advertising. The native PiP feature offers a clean, ad-free experience.
 
-Reliability
+Reliability: 
 Browser-integrated PiP is more stable and compatible with web standards, reducing the likelihood of performance issues compared to third-party extensions.
 
-Simplicity
+Simplicity: 
 Using the browser’s native PiP functionality eliminates the need for additional installations or setups, offering an accessible and straightforward user experience.
